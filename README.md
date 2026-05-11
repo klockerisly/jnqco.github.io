@@ -1,1 +1,1 @@
-# jnqco.github.io
+# github.io
